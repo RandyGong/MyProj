@@ -10,7 +10,6 @@ namespace GitTestProj
     {
         static void Main(string[] args)
         {
-            // here I add some comments...
         }
     }
 }
